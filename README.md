@@ -46,16 +46,16 @@ distribution of charged-off loans.
 The analysis identifies factors associated with a higher probability of
 loan defaulting. Some key observations include:
 
-\- Higher probability of defaulting for applicants with house ownership
-as \'RENT\'. - Increased likelihood of defaulting for loans used to
-clear other debts. - Interest rates in the range of 13-17% correlate
-with higher default rates. - Higher default rates for applicants with an
-income range of \$31,201 - \$58,402. - Longer employment history (10+
-years) is associated with a higher probability of default. - Loans with
-terms of 36 months show a higher default rate. - Verification status and
-the number of inquiries in the last 6 months impact default rates. -
-Loans issued in later months of the year, especially December, show
-higher default rates.
+- Applicants taking loan for 'home improvement' and have income of 60k -70k
+- Applicants whose home ownership is 'MORTGAGE and have income of 60-70k
+- Applicants who receive interest at the rate of 21-24% and have an income of 70k-80k
+- Applicants who have taken a loan in the range 30k - 35k and are charged interest rate of 15-17.5 %
+- Applicants who have taken a loan for small business and the loan amount is greater than 14k
+- Applicants whose home ownership is 'MORTGAGE and have loan of 14-16k
+- When grade is F and loan amount is between 15k-20k
+- When employment length is 10yrs and loan amount is 12k-14k 
+- When the loan is verified and loan amount is above 16k
+- For grade G and interest rate above 20%
 
 ## Annual Income Analysis
 
